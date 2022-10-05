@@ -1,0 +1,7 @@
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\variables\variables\bin\Debug\variables.exe
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\variables\variables\bin\Debug\variables.pdb
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\variables\variables\obj\Debug\variables.csproj.AssemblyReference.cache
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\variables\variables\obj\Debug\variables.csproj.SuggestedBindingRedirects.cache
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\variables\variables\obj\Debug\variables.csproj.CoreCompileInputs.cache
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\variables\variables\obj\Debug\variables.exe
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\variables\variables\obj\Debug\variables.pdb
