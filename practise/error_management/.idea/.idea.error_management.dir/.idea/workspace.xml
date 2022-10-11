@@ -8,32 +8,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4815704-004e-4b6c-b6ad-b41d664f0614" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.error_management.dir/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.error_management.dir/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/error_management/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/error_management/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/error_management/bin/Debug/error_management.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/error_management/bin/Debug/error_management.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/error_management/error_management.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/error_management/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/error_management/obj/Debug/error_management.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/error_management/obj/Debug/error_management.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/error_management/obj/Debug/error_management.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/error_management/obj/Debug/error_management.csproj.SuggestedBindingRedirects.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/error_management/obj/Debug/error_management.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/error_management/obj/Debug/error_management.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../type_conversion/type_conversion/bin/Debug/type_conversion.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../type_conversion/type_conversion/bin/Debug/type_conversion.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../type_conversion/type_conversion/obj/Debug/type_conversion.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../type_conversion/type_conversion/obj/Debug/type_conversion.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../type_conversion/type_conversion/obj/Debug/type_conversion.csproj.SuggestedBindingRedirects.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../type_conversion/type_conversion/obj/Debug/type_conversion.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../type_conversion/type_conversion/obj/Debug/type_conversion.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.error_management.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.error_management.dir/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/error_management/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/861e23c672704a4a8eca9c234af0cac552e590/90/62e1e870/Int32.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -88,8 +72,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665215187633</updated>
-      <workItem from="1665215191701" duration="1691000" />
+      <workItem from="1665215191701" duration="3592000" />
     </task>
+    <task id="LOCAL-00001" summary="error management">
+      <created>1665216993919</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665216993919</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,5 +103,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="error management" />
+    <option name="LAST_COMMIT_MESSAGE" value="error management" />
   </component>
 </project>

@@ -1,0 +1,7 @@
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\if-else-ternary\if-else-ternary\bin\Debug\if_else_ternary.exe
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\if-else-ternary\if-else-ternary\bin\Debug\if_else_ternary.pdb
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\if-else-ternary\if-else-ternary\obj\Debug\if-else-ternary.csproj.AssemblyReference.cache
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\if-else-ternary\if-else-ternary\obj\Debug\if-else-ternary.csproj.SuggestedBindingRedirects.cache
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\if-else-ternary\if-else-ternary\obj\Debug\if-else-ternary.csproj.CoreCompileInputs.cache
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\if-else-ternary\if-else-ternary\obj\Debug\if_else_ternary.exe
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\if-else-ternary\if-else-ternary\obj\Debug\if_else_ternary.pdb
