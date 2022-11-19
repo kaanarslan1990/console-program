@@ -1,0 +1,7 @@
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\switch-case\switch-case\bin\Debug\switch_case.exe
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\switch-case\switch-case\bin\Debug\switch_case.pdb
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\switch-case\switch-case\obj\Debug\switch-case.csproj.AssemblyReference.cache
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\switch-case\switch-case\obj\Debug\switch-case.csproj.SuggestedBindingRedirects.cache
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\switch-case\switch-case\obj\Debug\switch-case.csproj.CoreCompileInputs.cache
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\switch-case\switch-case\obj\Debug\switch_case.exe
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\switch-case\switch-case\obj\Debug\switch_case.pdb
