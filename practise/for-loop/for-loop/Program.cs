@@ -5,6 +5,8 @@ namespace for_loop
 {
     internal class Program
     {
+
+
         public static void Main(string[] args)
         {
 
@@ -53,6 +55,18 @@ namespace for_loop
                 Console.WriteLine(i);
 
             }
+
+            int n = Convert.ToInt32(Console.ReadLine().Trim());
+
+
+            int result ;
+
+            for (int i = 1 ; i <= 10 ; i++){
+                result = n * i ;
+                Console.WriteLine($"{n} x {i} = {result}");
+            }
+
+
         }
     }
 }
