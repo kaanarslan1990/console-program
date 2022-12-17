@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db075515-e178-49eb-a650-2bb61b3cf1c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.loops-for.dir/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../loops-while-foreach/loops-while-foreach/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../loops-while-foreach/loops-while-foreach/loops-while-foreach.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../for-loop/for-loop/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../for-loop/for-loop/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.loops-for.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.loops-for.dir/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
