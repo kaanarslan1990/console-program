@@ -1,0 +1,7 @@
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\loops-while-foreach\loops-while-foreach\bin\Debug\loops_while_foreach.exe
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\loops-while-foreach\loops-while-foreach\bin\Debug\loops_while_foreach.pdb
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\loops-while-foreach\loops-while-foreach\obj\Debug\loops-while-foreach.csproj.AssemblyReference.cache
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\loops-while-foreach\loops-while-foreach\obj\Debug\loops-while-foreach.csproj.SuggestedBindingRedirects.cache
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\loops-while-foreach\loops-while-foreach\obj\Debug\loops-while-foreach.csproj.CoreCompileInputs.cache
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\loops-while-foreach\loops-while-foreach\obj\Debug\loops_while_foreach.exe
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\loops-while-foreach\loops-while-foreach\obj\Debug\loops_while_foreach.pdb

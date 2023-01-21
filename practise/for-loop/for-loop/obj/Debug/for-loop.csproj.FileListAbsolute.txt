@@ -1,0 +1,7 @@
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\for-loop\for-loop\bin\Debug\for_loop.exe
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\for-loop\for-loop\bin\Debug\for_loop.pdb
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\for-loop\for-loop\obj\Debug\for-loop.csproj.AssemblyReference.cache
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\for-loop\for-loop\obj\Debug\for-loop.csproj.SuggestedBindingRedirects.cache
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\for-loop\for-loop\obj\Debug\for-loop.csproj.CoreCompileInputs.cache
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\for-loop\for-loop\obj\Debug\for_loop.exe
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\for-loop\for-loop\obj\Debug\for_loop.pdb

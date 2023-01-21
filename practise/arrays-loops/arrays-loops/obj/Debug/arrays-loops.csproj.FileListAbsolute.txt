@@ -1,0 +1,7 @@
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\arrays-loops\arrays-loops\bin\Debug\arrays_loops.exe
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\arrays-loops\arrays-loops\bin\Debug\arrays_loops.pdb
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\arrays-loops\arrays-loops\obj\Debug\arrays-loops.csproj.AssemblyReference.cache
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\arrays-loops\arrays-loops\obj\Debug\arrays-loops.csproj.SuggestedBindingRedirects.cache
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\arrays-loops\arrays-loops\obj\Debug\arrays-loops.csproj.CoreCompileInputs.cache
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\arrays-loops\arrays-loops\obj\Debug\arrays_loops.exe
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\arrays-loops\arrays-loops\obj\Debug\arrays_loops.pdb

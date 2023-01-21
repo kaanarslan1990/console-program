@@ -1,0 +1,7 @@
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\array_class_methods\array_class_methods\bin\Debug\array_class_methods.exe
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\array_class_methods\array_class_methods\bin\Debug\array_class_methods.pdb
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\array_class_methods\array_class_methods\obj\Debug\array_class_methods.csproj.AssemblyReference.cache
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\array_class_methods\array_class_methods\obj\Debug\array_class_methods.csproj.SuggestedBindingRedirects.cache
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\array_class_methods\array_class_methods\obj\Debug\array_class_methods.csproj.CoreCompileInputs.cache
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\array_class_methods\array_class_methods\obj\Debug\array_class_methods.exe
+C:\OGUZKAANARSLAN\01_REPOSITORY\02_ Education\02_Patika_Net_Core_Start\practise\array_class_methods\array_class_methods\obj\Debug\array_class_methods.pdb
