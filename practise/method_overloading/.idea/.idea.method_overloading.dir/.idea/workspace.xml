@@ -8,35 +8,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="704bc832-3929-43a3-aae4-73d5193224fb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.method_overloading.dir/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.method_overloading.dir/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.method_overloading.dir/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.method_overloading.dir/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.method_overloading.dir/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/method_overloading/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/method_overloading/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/method_overloading/bin/Debug/method_overloading.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/method_overloading/bin/Debug/method_overloading.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/method_overloading/method_overloading.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/method_overloading/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/method_overloading/obj/Debug/method_overloading.csproj.AssemblyReference.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/method_overloading/obj/Debug/method_overloading.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/method_overloading/obj/Debug/method_overloading.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/method_overloading/obj/Debug/method_overloading.csproj.SuggestedBindingRedirects.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/method_overloading/obj/Debug/method_overloading.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/method_overloading/obj/Debug/method_overloading.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../methods/methods/bin/Debug/methods.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../methods/methods/bin/Debug/methods.pdb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../methods/methods/obj/Debug/methods.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../methods/methods/obj/Debug/methods.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../methods/methods/obj/Debug/methods.csproj.SuggestedBindingRedirects.cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../methods/methods/obj/Debug/methods.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../methods/methods/obj/Debug/methods.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.method_overloading.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.method_overloading.dir/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/method_overloading/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -93,8 +73,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674892088253</updated>
-      <workItem from="1674892094414" duration="1588000" />
+      <workItem from="1674892094414" duration="2458000" />
     </task>
+    <task id="LOCAL-00001" summary="method overloading">
+      <created>1674893952907</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674893952907</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,5 +104,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="method overloading" />
+    <option name="LAST_COMMIT_MESSAGE" value="method overloading" />
   </component>
 </project>
